@@ -15,7 +15,7 @@ return(
     </div>
     <div className="image">
       {/* <img src="images/spotlight01.jpg" alt="" /> */}
-      <iframe className="rect" width="98%" height="98%" scrolling="no"  src="https://enigmatic-headland-80012.herokuapp.com/">
+      <iframe className="rect" width="98%" height="425px" scrolling="no"  src="https://enigmatic-headland-80012.herokuapp.com/">
 
       </iframe>
     </div>

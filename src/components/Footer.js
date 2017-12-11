@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 
 class Footer extends Component{
+
   render(){
     return(
       <footer className="wrapper style1 align-center">
@@ -12,7 +13,7 @@ class Footer extends Component{
         <li><a href="https://www.linkedin.com/in/rajendra-pawan-44745611a/"target="_blank" className="icon style2 fa-linkedin"><span className="label" >LinkedIn</span></a></li>
           </ul>
           <br />
-        <p><i>Copyright &copy; Rajendra-Portfolio 2017</i></p>
+        <p id="par"><i>Copyright &copy; pawarajendra 2017</i></p>
         </div>
       </footer>
     )

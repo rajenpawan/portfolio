@@ -15,6 +15,7 @@ export default class Home extends Component{
               <section className="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
                 <div className="content">
                   <h1>My PortFolio</h1>
+                <h3>I am Rajendra K</h3>
                 <p className="major">My Live Projects which i Worked as freelancer</p>
                   <ul className="actions vertical">
                     <li><a href="https://github.com/rajenpawan"target="_blank" className="button big wide smooth-scroll-middle">My github</a></li>

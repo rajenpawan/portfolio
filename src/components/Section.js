@@ -14,9 +14,9 @@ return(
         <li><a href="https://gallerisa.herokuapp.com"target="_blank" className="button">Learn More</a></li>
       </ul>
     </div>
-    <div className="image left">
+    <div className="image">
       {/* <img src="images/spotlight01.jpg" alt="" /> */}
-      <iframe margin="3px" width="98%" height="98%" src="https://gallerisa.herokuapp.com">
+      <iframe className="rect" width="98%" height="445px" scrolling="no" src="https://gallerisa.herokuapp.com">
 
       </iframe>
     </div>

@@ -22,7 +22,7 @@
 		&.left,
 		&.right {
 			width: 40%;
-			max-width: 10rem;
+			max-width: 9rem;
 
 			img {
 				width: 100%;
@@ -30,11 +30,7 @@
 		}
 
 		&.left {
-			border: 2px solid grey;
-			overflow: hidden;
-			// float: left;
-			// margin: 0 1.5rem 1rem 0;
-			// top: 0.25rem;
+			
 		}
 
 		&.right {
